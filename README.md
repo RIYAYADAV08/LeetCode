@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RIYAYADAV08/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/RIYAYADAV08/LeetCode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RIYAYADAV08/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
