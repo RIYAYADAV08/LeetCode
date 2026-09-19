@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RIYAYADAV08/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RIYAYADAV08/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RIYAYADAV08/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
