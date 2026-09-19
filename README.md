@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RIYAYADAV08/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RIYAYADAV08/LeetCode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RIYAYADAV08/LeetCode/tree/master/0055-jump-game) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/RIYAYADAV08/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
