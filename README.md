@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/RIYAYADAV08/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/RIYAYADAV08/LeetCode/tree/master/0058-length-of-last-word) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
