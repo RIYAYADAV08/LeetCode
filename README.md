@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RIYAYADAV08/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/RIYAYADAV08/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/RIYAYADAV08/LeetCode/tree/master/0067-add-binary) |
+| [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/RIYAYADAV08/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0052-n-queens-ii) |
+| [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RIYAYADAV08/LeetCode/tree/master/0056-merge-intervals) |
+| [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RIYAYADAV08/LeetCode/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
