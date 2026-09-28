@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RIYAYADAV08/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/RIYAYADAV08/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/RIYAYADAV08/LeetCode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/RIYAYADAV08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RIYAYADAV08/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/RIYAYADAV08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RIYAYADAV08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
