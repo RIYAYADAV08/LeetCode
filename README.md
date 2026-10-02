@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/RIYAYADAV08/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RIYAYADAV08/LeetCode/tree/master/0058-length-of-last-word) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RIYAYADAV08/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RIYAYADAV08/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0047-permutations-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/RIYAYADAV08/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RIYAYADAV08/LeetCode/tree/master/0070-climbing-stairs) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RIYAYADAV08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RIYAYADAV08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
