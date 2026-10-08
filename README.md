@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RIYAYADAV08/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/RIYAYADAV08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RIYAYADAV08/LeetCode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/0087-scramble-string) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RIYAYADAV08/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RIYAYADAV08/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RIYAYADAV08/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/0087-scramble-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RIYAYADAV08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
 |  |
