@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Newton's Method
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0100-same-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RIYAYADAV08/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RIYAYADAV08/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/RIYAYADAV08/LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
