@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RIYAYADAV08/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RIYAYADAV08/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RIYAYADAV08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RIYAYADAV08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RIYAYADAV08/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAYADAV08/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RIYAYADAV08/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
