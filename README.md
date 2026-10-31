@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIYAYADAV08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/RIYAYADAV08/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RIYAYADAV08/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RIYAYADAV08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/RIYAYADAV08/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RIYAYADAV08/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RIYAYADAV08/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
