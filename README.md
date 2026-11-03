@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/RIYAYADAV08/LeetCode/tree/master/0133-clone-graph) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LeetCode/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/RIYAYADAV08/LeetCode/tree/master/0133-clone-graph) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/RIYAYADAV08/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RIYAYADAV08/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RIYAYADAV08/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0133-clone-graph](https://github.com/RIYAYADAV08/LeetCode/tree/master/0133-clone-graph) |
 | [1254-number-of-closed-islands](https://github.com/RIYAYADAV08/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RIYAYADAV08/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LeetCode/tree/master/0127-word-ladder) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/RIYAYADAV08/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
