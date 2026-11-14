@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/RIYAYADAV08/LeetCode/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RIYAYADAV08/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -467,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RIYAYADAV08/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RIYAYADAV08/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
