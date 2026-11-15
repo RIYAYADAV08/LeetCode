@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RIYAYADAV08/LeetCode/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RIYAYADAV08/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RIYAYADAV08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RIYAYADAV08/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/RIYAYADAV08/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RIYAYADAV08/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
