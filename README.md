@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RIYAYADAV08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RIYAYADAV08/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RIYAYADAV08/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RIYAYADAV08/LeetCode/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
