@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RIYAYADAV08/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RIYAYADAV08/LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/RIYAYADAV08/LeetCode/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAYADAV08/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/RIYAYADAV08/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/RIYAYADAV08/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LeetCode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/RIYAYADAV08/LeetCode/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RIYAYADAV08/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -481,4 +483,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RIYAYADAV08/LeetCode/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RIYAYADAV08/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RIYAYADAV08/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RIYAYADAV08/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
