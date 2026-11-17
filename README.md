@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RIYAYADAV08/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIYAYADAV08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RIYAYADAV08/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RIYAYADAV08/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RIYAYADAV08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIYAYADAV08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RIYAYADAV08/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RIYAYADAV08/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/RIYAYADAV08/LeetCode/tree/master/0165-compare-version-numbers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIYAYADAV08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Bubble Sort
 |  |
 | ------- |
