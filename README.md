@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RIYAYADAV08/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIYAYADAV08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RIYAYADAV08/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RIYAYADAV08/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RIYAYADAV08/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RIYAYADAV08/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RIYAYADAV08/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RIYAYADAV08/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RIYAYADAV08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIYAYADAV08/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RIYAYADAV08/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RIYAYADAV08/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RIYAYADAV08/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAYADAV08/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/RIYAYADAV08/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RIYAYADAV08/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RIYAYADAV08/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RIYAYADAV08/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RIYAYADAV08/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
